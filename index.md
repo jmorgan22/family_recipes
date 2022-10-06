@@ -2,7 +2,7 @@
 
 Set of recipes as given by my grandma.
 
-- pizz (TODO)
+- pizzas (TODO)
 - sauces (TODO)
-- breads (TODO)
+- spreads (TODO)
 
